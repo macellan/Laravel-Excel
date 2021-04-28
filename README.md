@@ -39,7 +39,7 @@ Excel::create('Laravel Excel', function($excel) {
 Require this package in your `composer.json` and update composer. This will download the package and PHPExcel of PHPOffice.
 
 ```php
-composer require "macellan/laravel-excel:2.2"
+composer require "macellan/laravel-excel:2.3"
 ```
 
 In Laravel 5.5 or higher, this package will be automatically discovered and you can safely skip the following two steps.
