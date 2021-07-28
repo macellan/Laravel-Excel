@@ -46,7 +46,10 @@
     ],
     "psr-0": {
       "Macellan\\Excel\\": "src/"
-    }
+    },
+    "files": [
+      "src/helpers.php"
+    ]
   },
   "extra": {
         "laravel": {
