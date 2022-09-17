@@ -23,11 +23,11 @@
   ],
   "require": {
     "php": ">=5.5",
-    "macellan/phpexcel": "^1.8.5",
-    "illuminate/cache": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/config": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/filesystem": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/support": "~5.0 || ~6.0 || ~7.0 || ~8.0",
+    "macellan/phpexcel": "^1.8.15",
+    "illuminate/cache": ">=5.0",
+    "illuminate/config": ">=5.0",
+    "illuminate/filesystem": ">=5.0",
+    "illuminate/support": ">=5.0",
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "^2.17",
     "tijsverkoyen/css-to-inline-styles": "~2.2",
@@ -35,10 +35,10 @@
     "ext-simplexml": "*"
   },
   "suggest": {
-    "illuminate/http": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/routing": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/view": "~5.0 || ~6.0 || ~7.0 || ~8.0",
-    "illuminate/queue": "~5.0 || ~6.0 || ~7.0 || ~8.0"
+    "illuminate/http": ">=5.0",
+    "illuminate/routing": ">=5.0",
+    "illuminate/view": ">=5.0",
+    "illuminate/queue": ">=5.0"
   },
   "autoload": {
     "classmap": [
